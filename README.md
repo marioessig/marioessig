@@ -1,3 +1,5 @@
+<!-- **vsxrmv/vsxrmv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+
 # Hi, I am Mario Essig! :panda_face:
 
 <br>
@@ -16,6 +18,7 @@ Here are some of my favorite technologies I enjoy working with:
 * Salesforce Service Cloud
 * Dataloader.io and Force IDE
 * Visual Studio Code
+* Git & GitHub
 * Altassian Jira and Confluence
 * Structured Query Language (SQL)
 * Microsoft Products (Word, Excel, Access, Visio, and Visual Basic Applications) 
@@ -26,17 +29,11 @@ Here are some of my favorite technologies I enjoy working with:
 * [Follow my ongoing Salesforce Trailhead progress](https://trailblazer.me/id/geekpanda)
 * [Explore my work on GitHub](https://github.com/vsxrmv)
 
-<!--
-**vsxrmv/vsxrmv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Achievements
+* Certified Salesforce Administrator (ADM 201) - August 2018
+* Certified Salesforce Advanced Administrator (ADM 211) - July 2020
+>* *Certified Salesforce Sales Cloud Consultant - currently in progress with goal of completion in August*
+>* *Certified Salesforce Service Cloud Consultant - currently in progress with goal of completion in August too!*
+>* *Certified Platform App Builder - goal of completion in September*
+>* *Certified Platform Developer I & II - pending a plan...*
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
