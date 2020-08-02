@@ -14,12 +14,11 @@ Thanks to <a href="https://www.salesforce.com/video/288760/#:~:text=Salesforce%2
 
 ## :computer:  Favorite Technologies
 Here are some of my favorite technologies I enjoy working with:
-* Salesforce Sales Cloud
-* Salesforce Service Cloud
+* Salesforce products
 * Dataloader.io and Force IDE
-* Visual Studio Code
+* Visual Studio Code (VS Code)
 * Git & GitHub
-* Altassian Jira and Confluence
+* Atlassian Jira and Confluence
 * Structured Query Language (SQL)
 * Hypertext Markup Language (HTML)
 * Cascading Style Sheets (CSS)
