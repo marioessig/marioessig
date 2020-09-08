@@ -4,7 +4,7 @@
 
 <br>
 
-<img align="right" width="400" src="https://github.com/vsxrmv/vsxrmv/blob/master/FocusMario.jpg" alt="Mario sitting with a pair of glasses focusing on something outside of the picture, smiling">
+<img align="right" height="475" src="https://github.com/marioessig/marioessig/blob/master/SmilingMario475pxHeight.png" alt="Mario posing and smiling">
 
 ## I have been mingling with data for over 13 years!
 
