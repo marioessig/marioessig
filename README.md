@@ -10,7 +10,9 @@
 
 <br>
 
-Thanks to <a href="https://www.salesforce.com/video/288760/#:~:text=Salesforce%20Ohana%20is%20a%20support,another%2C%20and%20have%20fun%20together!">Salesforce Ohana </a>, I have fallen in love with the Salesforce ecosystem and became a certified Salesforce Advanced Administrator. I have the knack to break things and get things done quickly. With both together, I find solutions and make the users' lives much easier as I make sure the technologies works for them instead of the other way around.
+Thanks to <a href="https://www.salesforce.com/video/288760/#:~:text=Salesforce%20Ohana%20is%20a%20support,another%2C%20and%20have%20fun%20together!">Salesforce Ohana </a>, I have fallen in love with the Salesforce ecosystem and became a certified Salesforce Advanced Administrator. I have the knack to break things and get things done quickly. With both together, I find solutions and make the users' lives much easier as I make sure the technologies works for them instead of the other way around
+
+Check out my website: <a href="https://geekpanda.io">geekpanda.io</a>
 
 ## :computer:  Favorite Technologies
 Here are some of my favorite technologies I enjoy working with:
@@ -34,8 +36,3 @@ Here are some of my favorite technologies I enjoy working with:
 ## Achievements
 * Certified Salesforce Administrator (ADM 201) - August 2018
 * Certified Salesforce Advanced Administrator (ADM 211) - July 2020
->* *Certified Salesforce Sales Cloud Consultant - currently in progress with goal of completion in August*
->* *Certified Salesforce Service Cloud Consultant - currently in progress with goal of completion in August too!*
->* *Certified Platform App Builder - goal of completion in September*
->* *Certified Platform Developer I & II - pending a plan...*
-
