@@ -35,5 +35,6 @@ Here are some of my favorite technologies I enjoy working with:
 * [Explore my work on GitHub](https://github.com/vsxrmv)
 
 ## Achievements
-* Certified Salesforce Administrator (ADM 201) - August 2018
-* Certified Salesforce Advanced Administrator (ADM 211) - July 2020
+* Certified Salesforce Administrator (ADM 201)
+* Certified Salesforce Advanced Administrator (ADM 211)
+* Certified Salesforce Sales Cloud Consultant (SP20)
