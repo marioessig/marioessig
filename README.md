@@ -25,6 +25,7 @@ Here are some of my favorite technologies I enjoy working with:
 * Hypertext Markup Language (HTML)
 * Cascading Style Sheets (CSS)
 * JavaScript
+* Node
 * Microsoft Products (Word, Excel, Access, Visio, and Visual Basic Applications) 
 * Google Sheets, Docs and other Google apps (including Google Script)
 
